@@ -147,3 +147,4 @@ cython_debug/
 # custom
 key/*
 !key/.gitkeep
+.envrc
